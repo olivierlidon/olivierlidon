@@ -1,9 +1,9 @@
 # Hey there 👋, I'm Olivier
 
 I'm a **frontend developer** who enjoys building clean, reliable, and thoughtful user experiences.  
-Trained at [42 School](https://42.fr/), I've worked with **React**, **React Native**, and **TypeScript** to create performant and scalable web and mobile applications.
+Trained at [42 School](https://42lyon.fr/), I've worked with **React**, **React Native**, and **TypeScript** to create performant and scalable web and mobile applications.
 
-💡 I like to explore how things work — from UI interactions to backend integrations — and I’m always looking for ways to write better, clearer code.
+💡 I like to explore how things work from UI interactions to backend integrations and I’m always looking for ways to write better, clearer code.
 
 ---
 
@@ -32,9 +32,9 @@ Trained at [42 School](https://42.fr/), I've worked with **React**, **React Nati
 
 ### 🚀 Some Things I’ve Worked On
 
-- **Fruitz (2022–2025)** – Frontend developer on a large-scale mobile app, improving UX, performance, and CI/CD pipelines.  
-- **Personal Server Setup** – Self-hosting Nextcloud and Jellyfin using Docker and Nginx Proxy Manager on Proxmox.  
-- **Smart Home Dashboard** – E-ink display built with ESPHome showing weather, public transport, and scooter availability in Lyon.  
+- **Fruitz (2022–2025):** Frontend developer on a large-scale mobile app, improving UX, performance, and CI/CD pipelines.  
+- **Personal Server Setup:** Self-hosting Nextcloud and Jellyfin using Docker and Nginx Proxy Manager on Proxmox.  
+- **Smart Home Dashboard:** E-ink display built with ESPHome showing weather, public transport, and scooter availability in Lyon.  
 
 ---
 
